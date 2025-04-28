@@ -1,0 +1,11 @@
+{
+    "contacts": [
+        {
+            "id": "1",
+            "address": " Office 104, Ras Al Khor, Industrial Area 2, Dubai, UAE ",
+            "phone": "(+971) 4 388 1856",
+            "email": "info@egycontracting.com",
+            "working_hours": "Mon - Sat 9:00 - 18:00"
+        }
+    ]
+}

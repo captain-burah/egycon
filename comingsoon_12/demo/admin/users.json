@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "admin",
+            "email": "egycon@egycontracting.com",
+            "password": "as@dxb@12345@egycon"
+        }
+    ]
+}

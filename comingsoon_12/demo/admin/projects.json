@@ -1,0 +1,116 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "The Spark by ESNAAD ",
+            "description": "A complete construction of the project \"The Spark by ESNAAD\" - ESNAAD Developments (Main Contractor)",
+            "location": "Meydan, Dubai",
+            "img": "esnaad.webp"
+        },
+        {
+            "id": 2,
+            "name": "Damac Hills (Phase One)",
+            "description": "A complete construction of DAMAC Hills (Phase One) by DAMAC (Main Contractor)",
+            "location": "Damac Hills, Dubai",
+            "img": "legends.webp"
+        },
+        {
+            "id": 3,
+            "name": "Private Villa (G+1)",
+            "description": "A complete construction of a private villa (Main Contractor)",
+            "location": "Al Waraqa, Dubai",
+            "img": "10.webp"
+        },
+        {
+            "id": 4,
+            "name": "Mama Shelter Residences",
+            "description": "A complete structure of Mama Shelter Residences (Subcontracting)",
+            "location": "Business Bay, Dubai",
+            "img": "mama.webp"
+        },
+        {
+            "id": 5,
+            "name": "Private Villa (G+1)",
+            "description": "A complete construction of a private villa (Main Contractor)",
+            "location": "Al Azrah, Sharjah",
+            "img": "2.webp"
+        },
+        {
+            "id": 6,
+            "name": "Private Villa (G+1)",
+            "description": "A complete construction of a private villa (Main Contractor)",
+            "location": "Wadi Al Shabak, Dubai",
+            "img": "5.webp"
+        },
+        {
+            "id": 7,
+            "name": "Akoya Oxygen - DAMAC Hills 2",
+            "description": "A complete construction of a separate phase of Akoya Oxygen for DAMAC",
+            "location": "DAMAC Hills 2, Dubai",
+            "img": "akoya2.webp"
+        },
+        {
+            "id": 8,
+            "name": "Private Villas (G+1)",
+            "description": "A complete construction of Private Villas (G+1)",
+            "location": "Multiple Locations in Dubai",
+            "img": "9.webp"
+        },
+        {
+            "id": 9,
+            "name": "Vezul Residence",
+            "description": "A complete construction of Vezul Residence (Subcontracting)",
+            "location": "Business Bay, Dubai",
+            "img": "vezul.webp"
+        },
+        {
+            "id": 10,
+            "name": "Iskan Villas",
+            "description": "A complete structure of Iskan villas for Ali Moosa (Main Contractor)",
+            "location": "Al Suyoh, Sharjah",
+            "img": "8.webp"
+        },
+        {
+            "id": 11,
+            "name": "Private Villa (G+1)",
+            "description": "A complete construction of a private villa (G+1) for Taha Al Gabri (Main Contractor)",
+            "location": "Tarfanah, Sharjah",
+            "img": "7.webp"
+        },
+        {
+            "id": 12,
+            "name": "Mada Tower",
+            "description": "A complete structure of Mada Tower (Subcontracting)",
+            "location": "Business Bay, Dubai",
+            "img": "mada.webp"
+        },
+        {
+            "id": 13,
+            "name": "Private Villa (G+1)",
+            "description": "A complete construction of a private villa (G+1) for Nasser Al Sheikh (Main Contractor)",
+            "location": "Al Mizhar, Dubai",
+            "img": "4.webp"
+        },
+        {
+            "id": 14,
+            "name": "Private Villa (G+1)",
+            "description": "A complete construction of a private villa (G+1) for for Saleem Al Sewidi (Main Contractor)",
+            "location": "Al Azrah, Sharjah",
+            "img": "_default.webp"
+        },
+        {
+            "id": 15,
+            "name": "Private Villa (G+1)",
+            "description": "A complete construction of a private villa (G+1) for for Abdallah Ahmed Lootah (Main Contractor)",
+            "location": "Al Mamzar, Dubai",
+            "img": "_default.webp"
+        },
+        {
+            "id": 16,
+            "name": "Private Villa (G+1) ",
+            "description": "A complete construction of a private villa (G+1) for for Abdallah Ahmed Lootah (Main Contractor)",
+            "location": "Al Khawaneej, Dubai",
+            "img": "_default.webp"
+        }
+    ]
+}
