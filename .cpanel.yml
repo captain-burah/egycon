@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home3/yjkpaimy/dev_hub
+    - /bin/cp -r * $DEPLOYPATH
