@@ -21,7 +21,7 @@
     <!-- ESSENTIAL OG TAGS -->
     <meta property="og:title" content="Aremak Networking Systems – Dubai’s Trusted IT & Security Partner">
     <meta property="og:description" content="We deliver certified CCTV, access control, structured cabling, and smart security systems across the UAE.">
-    <meta property="og:image" content="http://devhub.aremakuae.com/images/images/aremak-networking-systems-dubai.jpg">
+    <meta property="og:image" content="http://devhub.aremakuae.com/images/favicon/aremak-networking-systems-dubai.jpg">
     <meta property="og:url" content="http://devhub.aremakuae.com">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US">
@@ -30,7 +30,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Aremak Networking Systems – Dubai’s Trusted IT & Security Partner">
     <meta name="twitter:description" content="We deliver certified CCTV, access control, structured cabling, and smart security systems across the UAE.">
-    <meta name="twitter:image" content="http://devhub.aremakuae.com/images/aremak-networking-systems-dubai.jpg">
+    <meta name="twitter:image" content="http://devhub.aremakuae.com/images/favicon/aremak-networking-systems-dubai.jpg">
 
     <!--CANONICAL LINKS-->
     <link rel="canonical" href="https://aremakuae.com" hreflang="en">
